@@ -13,7 +13,7 @@
     "node-uuid": "^1.4.7",
     "promise": "^7.1.1",
     "request": "^2.78.0",
-    "restify": "^4.2.0",
+    "restify": "^8.1.0",
     "rsa-pem-from-mod-exp": "^0.8.4",
     "sprintf-js": "^1.0.3"
   },
